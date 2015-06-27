@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- inherit from the material theme -->
+    <style name="AppTheme" parent="AppTheme.Base">
+        <!-- Main theme colors -->
+        <!--   your app branding color for the app bar -->
+
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowBackground">@color/material_blue_500</item>
+
+
+
+    </style>
+</resources>
